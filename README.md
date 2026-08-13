@@ -46,16 +46,15 @@ ubutool@USERNAME>
 If You Type "help" You Will See All Commands, I Put The Commands Also Here:
 
 
-  help       Show this help message
-  info       Show system information
-  disk       Show disk usage
-  ram        Show RAM usage
-  uptime     Show system uptime
-  update     Check for available updates
-  clear      Clear the terminal
-  version    Show Ubutool version
-  exit       Exit Ubutool
-
+  help - Show Commands
+  ram - Show Ram
+  disk - Show disk Usage
+  info - Show System Info
+  uptime - Show System Uptime
+  update - check For Available Upgrades
+  clear - Clear Actual Terminal
+  version - show Ubutool Version
+  exit - Exit Ubutool
 
 # Bye
 So That's It
