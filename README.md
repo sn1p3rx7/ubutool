@@ -56,6 +56,21 @@ If You Type "help" You Will See All Commands, I Put The Commands Also Here:
   version - show Ubutool Version
   exit - Exit Ubutool
 ```
+
+You Can also do multiple commands at once e.g.
+```bash
+  ram && disk
+```
+Or 
+```bash
+uptime && update && clear && version && clear && ram
+```
+And No End
+
+
+
+
+
 # Bye
 So That's It
 
