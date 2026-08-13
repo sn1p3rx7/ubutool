@@ -45,7 +45,7 @@ ubutool@USERNAME>
 
 If You Type "help" You Will See All Commands, I Put The Commands Also Here:
 
-
+```bash
   help - Show Commands
   ram - Show Ram
   disk - Show disk Usage
@@ -55,7 +55,7 @@ If You Type "help" You Will See All Commands, I Put The Commands Also Here:
   clear - Clear Actual Terminal
   version - show Ubutool Version
   exit - Exit Ubutool
-
+```
 # Bye
 So That's It
 
