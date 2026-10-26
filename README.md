@@ -12,6 +12,10 @@ If You Want To Install Ubutool Follow Instructions
   git clone https://github.com/sn1p3rx7/ubutool
 ```
 
+If You Don't Have Git(Github) then use:
+```bash
+  sudo apt update && sudo apt install github
+```
 Now:
 ```bash
   cd ubutool && sudo ./linux.sh
